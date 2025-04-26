@@ -5,16 +5,14 @@
 1.  Install the required packages using pip:
 
    ```bash
+   cd Tooling
    pip install -r requirements.txt
    ```
 
 ## Usage
 
-1.  Run mytool:
+1.  Run my-tool:
 
    ```bash
-   python mytool.py
+   python my-tool.py
    ```
-
-Replace `mytool.py` with the actual name of your script.
-
