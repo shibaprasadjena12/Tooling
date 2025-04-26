@@ -10,8 +10,9 @@
    ```
 
 ## Usage
-
-1.  Run my-tool:
+1.  update your gemini api key in .env
+   
+2.  Run my-tool:
 
    ```bash
    python my-tool.py
